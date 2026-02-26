@@ -132,6 +132,3 @@ Built to be resilient in any network condition:
 A premium experience for every user:
 * **Adaptive Dark Mode:** A high-contrast, navy-inspired dark theme designed for reduced eye strain.
 * **Accessibility First:** * Flexible layouts that prevent **overflows** even with large system font scales.
-
-
----
