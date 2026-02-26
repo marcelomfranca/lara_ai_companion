@@ -1,0 +1,1 @@
+enum FormValidatorMode { onChanged, onSubmited, all }
