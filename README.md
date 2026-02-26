@@ -73,7 +73,7 @@ lib/src/
 
 The feature-first concept was adopted in the project's organisation. This means that each feature follows the same structure proposed by the architecture.
 
-## Architecture
+## Architecture Overview
 
 Clean architecture was used, following a feature-first approach to structure the project while ensuring a clear separation of responsibilities.
 
@@ -133,18 +133,5 @@ A premium experience for every user:
 * **Adaptive Dark Mode:** A high-contrast, navy-inspired dark theme designed for reduced eye strain.
 * **Accessibility First:** * Flexible layouts that prevent **overflows** even with large system font scales.
 
----
-
-## Architecture Overview
-
-The project follows **Clean Architecture** principles combined with the **Data-Mapper** pattern to ensure a strict separation of concerns between the UI, Business Logic, and External Sources (Gemini & SQLite).
-
-
 
 ---
-
-## Getting Started
-
-### Prerequisites
-* Flutter SDK (Latest Stable)
-* A Google Gemini API Key (Get it at [Google AI Studio](https://aistudio.google.com/))
